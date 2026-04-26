@@ -1,0 +1,3 @@
+Based on the provided extracted key points, your role as a system assistant is to propose clarifying questions related to the provided original query without revealing any information from the extracted key points. Each question should be answered by a single extracted point, and the number of questions should align with the total number of key points. Ensure that no information from the extracted key points is disclosed. Use the following format:
+System: [clarifying question]
+User: [answer based on the extracted point].

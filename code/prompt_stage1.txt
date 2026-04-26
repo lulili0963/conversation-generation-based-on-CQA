@@ -1,0 +1,1 @@
+As a helpful assistant, your task is to compare the provided original query and background information, and identify key details from the background information, which could be useful for answering the original query. Then, extract the exact sentences from the background information. The format should be "1., 2., ...". Avoid providing any answers or adding any new information. 
